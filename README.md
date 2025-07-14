@@ -7,12 +7,12 @@ I aspire to become a proficient **Software Engineer**, specializing in **Data St
 
 ## 🚀 Skills & Expertise
 
-- **Competitive Programming:**  
-  5⭐ Java & Problem Solving Badge on HackerRank  
+- **Data Structures and Algorithms**  
+  5⭐ Java & Problem Solving Badge on HackerRank, Solved 400+ problems in leetcode  
 - **Full Stack Development:**  
   React, Express.js, Node.js, MongoDB, HTML, CSS, Java Servlets, Android (Kotlin)  
 - **AI & Machine Learning:**  
-  Certified by IIT Madras (AI), Google Cybersecurity, and NPTEL Python for Data Science (82%)  
+  Certified by IIT Madras (AI), Google Cybersecurity, Oracle PL/SQL and NPTEL Python for Data Science (82%)  
 
 ---
 
@@ -20,7 +20,8 @@ I aspire to become a proficient **Software Engineer**, specializing in **Data St
 
 - **PodPal** – Personalized Podcast Manager (MERN Stack)  
 - **Online Mentoring Management System** – Java Servlets, SQL, HTML, CSS  
-- **Responsive E-Commerce Website** – Frontend Development
+- **CodeSync** – Real Time code collabaration editor
+- 📂 **Check all my projects in my [repositories](https://github.com/SreejaReddy414?tab=repositories)**  
 
 ---
 
@@ -29,6 +30,7 @@ I aspire to become a proficient **Software Engineer**, specializing in **Data St
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mettupally-sreeja-reddy-a020b4265)
 
 ---
+
 
 ## 💻 Tech Stack
 
