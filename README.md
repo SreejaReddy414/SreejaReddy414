@@ -11,8 +11,8 @@ I aspire to become a proficient **Software Engineer**, specializing in **Data St
   5⭐ Java & Problem Solving Badge on HackerRank, Solved 400+ problems in leetcode  
 - **Full Stack Development:**  
   React, Express.js, Node.js, MongoDB, HTML, CSS, Java Servlets, Android (Kotlin)  
-- **AI & Machine Learning:**  
-  Certified by IIT Madras (AI), Google Cybersecurity, Oracle PL/SQL and NPTEL Python for Data Science (82%)  
+- **Certifications:**  
+  Google Cybersecurity, Oracle PL/SQL, Database Programming and NPTEL Python for Data Science (82%) and Artificial Intelligence- Search methods for problem Solving by IIT Madras
 
 ---
 
